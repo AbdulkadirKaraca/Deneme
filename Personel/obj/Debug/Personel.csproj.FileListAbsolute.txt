@@ -1,0 +1,30 @@
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\kisi.mdb
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\Personel.exe.config
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\Personel.exe
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\Personel.pdb
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\ResolveAssemblyReference.cache
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.Form1.resources
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.Properties.Resources.resources
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.csproj.GenerateResource.Cache
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.exe
+F:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.pdb
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\Personel.exe.config
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.exe
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.pdb
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\kisi.mdb
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\ResolveAssemblyReference.cache
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.Form1.resources
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.Properties.Resources.resources
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\obj\Debug\Personel.csproj.GenerateResource.Cache
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\Personel.exe
+E:\Girilen dersler\bahar\Bil 288 Bil Prog Dili II\DERS HAZIRLIK\Personel\Personel\bin\Debug\Personel.pdb
+D:\nesne\Personel\Personel\bin\Debug\Personel.exe.config
+D:\nesne\Personel\Personel\obj\Debug\Personel.exe
+D:\nesne\Personel\Personel\obj\Debug\Personel.pdb
+D:\nesne\Personel\Personel\bin\Debug\kisi.mdb
+D:\nesne\Personel\Personel\bin\Debug\Personel.exe
+D:\nesne\Personel\Personel\bin\Debug\Personel.pdb
+D:\nesne\Personel\Personel\obj\Debug\Personel.csprojResolveAssemblyReference.cache
+D:\nesne\Personel\Personel\obj\Debug\Personel.Form1.resources
+D:\nesne\Personel\Personel\obj\Debug\Personel.Properties.Resources.resources
+D:\nesne\Personel\Personel\obj\Debug\Personel.csproj.GenerateResource.Cache
